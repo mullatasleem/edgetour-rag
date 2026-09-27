@@ -1,0 +1,22 @@
+# Virtual environment
+venv/
+
+# Python bytecode and caches
+__pycache__/
+*.py[cod]
+
+# Environment variables and secrets
+.env
+
+# Databases and generated artifacts
+chroma_db/
+*.db
+*.sqlite3
+
+# Raw data drops (curated data/ stays tracked)
+data/raw/
+
+# OS and editor files
+.DS_Store
+Thumbs.db
+.vscode/
