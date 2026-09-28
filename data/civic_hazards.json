@@ -1,0 +1,102 @@
+[
+  {
+    "id": "hazard-0001",
+    "hazard": "typhoon",
+    "title": "Typhoon warning: southern coast",
+    "description": "Typhoon approaching from the south. Very strong winds and heavy rainfall expected along the Seogwipo coast within 24 hours. Coastal trails and outdoor activities suspended.",
+    "location": "Seogwipo",
+    "urgency": "critical",
+    "category": "weather",
+    "source": "synthetic"
+  },
+  {
+    "id": "hazard-0002",
+    "hazard": "trail_closure",
+    "title": "Hallasan Seongpanak trail closed",
+    "description": "Seongpanak trail to the Hallasan summit closed due to landslide risk after 180mm of overnight rainfall. Hikers advised to postpone summit attempts.",
+    "location": "Hallasan",
+    "urgency": "high",
+    "category": "trail",
+    "source": "synthetic"
+  },
+  {
+    "id": "hazard-0003",
+    "hazard": "road_flooding",
+    "title": "1100 Road partially flooded",
+    "description": "Sections of the 1100 Road between Eorimok and Seongpanak are flooded after heavy rain. Drive with caution; expect delays or temporary closure.",
+    "location": "1100 Road, Hallasan",
+    "urgency": "high",
+    "category": "road",
+    "source": "synthetic"
+  },
+  {
+    "id": "hazard-0004",
+    "hazard": "ferry_cancellation",
+    "title": "Jeju-Mokpo ferry cancelled",
+    "description": "All high-speed ferries between Jeju and Mokpo cancelled today due to 4m waves in the Korea Strait. Services expected to resume tomorrow morning.",
+    "location": "Jeju Port",
+    "urgency": "medium",
+    "category": "ferry",
+    "source": "synthetic"
+  },
+  {
+    "id": "hazard-0005",
+    "hazard": "heat_wave",
+    "title": "Heat wave advisory in Jeju City",
+    "description": "Daytime temperatures reaching 34C in Jeju City. Elderly visitors and hikers should avoid midday outdoor activity and stay hydrated.",
+    "location": "Jeju City",
+    "urgency": "medium",
+    "category": "weather",
+    "source": "synthetic"
+  },
+  {
+    "id": "hazard-0006",
+    "hazard": "strong_wind",
+    "title": "Strong wind advisory: eastern coast",
+    "description": "Sustained winds of 60 km/h along the eastern coast including Seongsan and Udo. Coastal road driving hazardous for high-profile vehicles.",
+    "location": "Seongsan, Udo",
+    "urgency": "medium",
+    "category": "weather",
+    "source": "synthetic"
+  },
+  {
+    "id": "hazard-0007",
+    "hazard": "trail_erosion",
+    "title": "Olle Trail Route 7 section closed",
+    "description": "A 2km section of Olle Trail Route 7 near Oedolgae closed for erosion repairs. Detour signs posted; the rest of the route remains open.",
+    "location": "Seogwipo, Olle Route 7",
+    "urgency": "low",
+    "category": "trail",
+    "source": "synthetic"
+  },
+  {
+    "id": "hazard-0008",
+    "hazard": "dense_fog",
+    "title": "Dense fog on Hallasan summit",
+    "description": "Visibility below 50m around the Hallasan summit and Witse Oreum area. Hikers should postpone summit attempts until fog clears.",
+    "location": "Hallasan summit",
+    "urgency": "medium",
+    "category": "weather",
+    "source": "synthetic"
+  },
+  {
+    "id": "hazard-0009",
+    "hazard": "rockfall",
+    "title": "Rockfall risk: Geomunoreum trail",
+    "description": "Small rockfalls reported on the Geomunoreum crater trail after recent rains. Guided tours continue with helmets; independent access restricted.",
+    "location": "Geomunoreum",
+    "urgency": "low",
+    "category": "trail",
+    "source": "synthetic"
+  },
+  {
+    "id": "hazard-0010",
+    "hazard": "flash_flood",
+    "title": "Flash flood watch: Cheonjiyeon valley",
+    "description": "Flash flood watch for the Cheonjiyeon and Cheonjeyeon waterfall valleys following upstream rainfall. Keep away from stream banks.",
+    "location": "Seogwipo",
+    "urgency": "high",
+    "category": "weather",
+    "source": "synthetic"
+  }
+]
